@@ -27,7 +27,7 @@ class NhlWebsite
   def initialize
     @name = "Blue Jackets"
     @url = "https://www.nhl.com/bluejackets/"
-    @headlineCss = ".mixed-feed__list li :nth-child(2) :first-child"
+    @headlineCss = ".mixed-feed__list li"
     @descriptionCss = ""
     @fullPath = ".mixed-feed__list li mixed-feed__meta a h4"
   end
@@ -53,6 +53,7 @@ def getSites
   cbjHockey = NhlWebsite.new
   footballSites = [elevenWarriorsFootball]
   hockeySites = [cbjHockey]
-  sites = [footballSites, hockeySites]
-  sites #return array of sports arrays containing websites for each sport
+  twitterFeeds = []
+  sites = [twitterFeeds, footballSites, hockeySites]
+  sites #return array of sports arrays containing websites for each category
 end

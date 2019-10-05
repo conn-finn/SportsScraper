@@ -3,7 +3,7 @@ require 'net/smtp'
 #method to send the email to user
 def sendEmail(content, email)
   message = <<MESSAGE_END
-From: SportScraper <sportscraper@gmail.com>
+From: SportScraper <sportscraperOSU@gmail.com>
 To: User <#{email}>
 MIME-Version: 1.0
 Content-type: text/html
@@ -14,10 +14,10 @@ MESSAGE_END
 
   smtp = Net::SMTP.new 'smtp.gmail.com', 587
   smtp.enable_starttls
-  smtp.start 'gmail','sportscraper@gmail.com',ENV['sportScraperPassword'], :plain
+  smtp.start 'gmail','sportscraperOSU@gmail.com',ENV['sportScraperPassword'], :plain
   #ENV['sportScraperPassword'] because cannot have password hard coded
   # make sure you set the sportScraperPassword otherwise there will be issues
-  smtp.send_message message, 'sportscraper@gmail.com', email
+  smtp.send_message message, 'sportscraperOSU@gmail.com', email
   smtp.finish
   puts "email sent.\n"
 end

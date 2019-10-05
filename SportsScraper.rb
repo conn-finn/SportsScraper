@@ -36,32 +36,28 @@ scraperSites.each do |sport|
       description = false
     end
 
-    # headlines = htmlPage.css website.fullPath
-    # headlines.each do |articleName|
-    #   titleInfo.push articleName.text
-    # end
-
     articles = htmlPage.css website.headlineCss
     hCounter = 0
     articles.each do |headline|
       hCounter += 1
-
-      # title = titleInfo[hCounter - 1]
+      break unless hCounter <= 10
       title = headline.text
-      if website.name != "Eleven Warriors"
-        puts title
-        puts storyInfo[hCounter-1]
-      end
-      storyInfo.push "" unless description
-      linkToArticle = (headline.at "a[href]")['href'] #get links to the articles' pages from anchor tags
-      linkToArticle = "https:" + linkToArticle
 
-          testFile.write "<h3>" + hCounter.to_s + ") " + title.lstrip +
-                              "<a href=\"" + linkToArticle + "\" style=\"font-size:80%;\">More Info</a></h3>\n<p>" +
+      storyInfo.push " " unless description
+      linkToArticle = (headline.at "a[href]")['href'] #get links to the articles' pages from anchor tags
+      linkToArticle = website.url + linkToArticle
+
+      if (website.name == "Blue Jackets") then
+        title = (headline.at "h4").text
+      end
+
+      testFile.write "<h3>" + hCounter.to_s + ") " + title.lstrip +
+                              " <a href=\"" + linkToArticle + "\" style=\"font-size:80%;\">More Info</a></h3>\n<p>" +
                               storyInfo[hCounter-1].lstrip + "</p>\n"
       emailContent.concat "<h3>" + hCounter.to_s + ") " + title.lstrip +
-                              "<a href=\"" + linkToArticle + "\" style=\"font-size:80%;\">More Info</a></h3>\n<p>" +
+                              " <a href=\"" + linkToArticle + "\" style=\"font-size:80%;\">More Info</a></h3>\n<p>" +
                               storyInfo[hCounter-1].lstrip + "</p>\n"
+
     end #end of headline
   end #end of website
 end #end of sport
