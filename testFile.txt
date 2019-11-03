@@ -1,67 +1,142 @@
-<h2>Today is: 9/30/2019</h2>
+<h2>Today is: 11/3/2019</h2>
 <h2>Sports News today:</h2>
 
+<div>
 <h2>Eleven Warriors</h2>
-<h3>1) Threat Level: Michigan, Week 5
-                            <a href="https:/college-football/2019/09/107289/threat-level-didnt-believe-it-at-first-but-michigan-is-back-baby" style="font-size:80%;">More Info</a></h3>
-<p>After destroying Rutgers, Michigan proved once and for all that they're not just a legitimate threat to achieve all of their realistic preseason goals.              </p>
-<h3>2) Day Recaps Nebraska Win, Previews MSU
-                            <a href="https:/ohio-state-football/2019/09/107327/ryan-day-reviews-ohio-states-big-win-at-nebraska-and-looks-ahead-to-this-weeks-game-against-michigan-state-on" style="font-size:80%;">More Info</a></h3>
-<p>Ryan Day said the Buckeyes “expected maybe a little more adversity” at Nebraska and described Michigan State as “one of the best-coached teams in the league.”              </p>
-<h3>3) Nebraska Champions
-                            <a href="https:/ohio-state-football/2019/09/107322/ohio-state-names-27-champions-including-15-offensive-players-and-11-defensive-players-for-48-7-win-over-nebraska" style="font-size:80%;">More Info</a></h3>
-<p>Ohio State named 15 offensive players, 11 defensive players and special teams player of the week Blake Haubeil for its 48-7 win over Nebraska.              </p>
-<h3>4) The Five Steps, Annotated
-                            <a href="https:/ohio-state-football/2019/09/107301/read-along-as-michigan-men-confront-the-reality-that-ohio-state-is-scary-good-this-season" style="font-size:80%;">More Info</a></h3>
-<p>“OSU just looks unstoppable..” Michigan fans watched Ohio State destroy Nebraska Saturday night, and pending doom was a common theme of what they had to say about it.              </p>
-<h3>5) Inside the Box: Nebraska
-                            <a href="https:/ohio-state-football/2019/09/107296/inside-the-box-ohio-state-spreads-the-wealth-jk-is-a-3000-yard-rusher-and-the-bucks-are-a-first-half-team" style="font-size:80%;">More Info</a></h3>
-<p>Five different Buckeyes have caught multiple touchdown passes as Justin Fields has been spreading the wealth to take advantage of defensive mismatches.               </p>
-<h3>6) Lattimore is Lockdown
-                            <a href="https:/ohio-state-football/2019/09/107312/across-the-shield" style="font-size:80%;">More Info</a></h3>
-<p>Marshon Lattimore locked down the Cowboys, Vonn Bell nabs another fumble and Dwayne Haskins struggles in his debut.              </p>
-<h3>7) Heisman and Natty Odds Climbing
-                            <a href="https:/ohio-state-football/2019/09/107315/justin-fields-heisman-odds-ohio-states-national-title-odds-climb" style="font-size:80%;">More Info</a></h3>
-<p>Ohio State's title odds and Justin Fields' Heisman Trophy odds jump after the Buckeyes blasted Nebraska.              </p>
-<h3>8) National Team of the Week
-                            <a href="https:/ohio-state-football/2019/09/107314/ohio-state-named-fwaa-national-team-of-the-week-for-48-7-win-over-nebraska" style="font-size:80%;">More Info</a></h3>
-<p>The Football Writers Association of America named Ohio State as its National Team of the Week for its 48-7 win over Nebraska on Saturday.              </p>
-<h3>9) Perry on Point: Goodness!
-                            <a href="https:/ohio-state-football/2019/09/107300/perry-on-point-ohio-state-rolls-nebraska-looks-to-michigan-state-and-much-much-more" style="font-size:80%;">More Info</a></h3>
-<p>Joshua Perry is back to answer your questions about an Ohio State team that's looking like one of the nation's best.              </p>
-<h3>10) Buckeye B-@-tle Cry: Nebraska
-                            <a href="https:/ohio-state-football/2019/09/107310/buckeye-b-tle-cry-ohio-states-domination-of-nebraska-went-over-well-on-twitter" style="font-size:80%;">More Info</a></h3>
-<p>Ohio State's dominant win over Nebraska had Buckeye fans humming on Twitter Saturday night.              </p>
-<h3>11) Potential Game-Changer for College Sports
-                            <a href="https:/college-sports/2019/09/107311/california-officially-passes-law-allowing-student-athletes-to-profit-off-their-name-image-and-likeness" style="font-size:80%;">More Info</a></h3>
-<p>California schools will be prevented from punishing student-athletes for receiving compensation beginning in 2023, presenting a major challenge to the NCAA's amateurism model.              </p>
-<h3>12) Bucks Picked 3rd In Big Ten
-                            <a href="https:/ohio-state-basketball/2019/09/107309/ohio-state-picked-third-in-unofficial-preseason-big-ten-media-poll-dj-carton-voted-preseason-freshman-of-the-year" style="font-size:80%;">More Info</a></h3>
-<p>The Buckeyes were voted third in the Big Ten in the unofficial media poll, DJ Carton was picked to win Freshman of the Year and Kaleb Wesson was first-team all-conference.              </p>
-<h3>13) Stock Up/Down: O-Line, Browning, Mack
-                            <a href="https:/ohio-state-football/2019/09/107294/stock-updown-ohio-states-offensive-line-thrives-baron-brownings-emergence-continues-hiccup-in-scott-frosts-hype" style="font-size:80%;">More Info</a></h3>
-<p>Ohio State's offensive line opened up holes and gave Justin Fields strong protection, Baron Browning continued his emergence and Scott Frost's hype trail hit a bump.              </p>
-<h3>14) Five Things to Know About Michigan State
-                            <a href="https:/ohio-state-football/2019/09/107305/five-things-to-know-about-michigan-state-ohio-states-sixth-opponent-of-the-2019-season" style="font-size:80%;">More Info</a></h3>
-<p>Michigan State has one of the nation's strongest defenses, kicks a lot of field goals, a roster that includes 28 Ohio natives and a history of playing spoiler to the Buckeyes.              </p>
-<h3>15) Monday Skull Session
-                            <a href="https:/skull-sessions/2019/09/107297/ohio-state-football-best-team-most-complete-justin-fields-rushing-ability-college-football-playoff-buckeyes" style="font-size:80%;">More Info</a></h3>
-<p>Ohio State is the nation's most complete team, Justin Fields' demoralizing scrambling ability, the Buckeyes are the most likely team to reach the playoff, and more.              </p>
-<h3>16) Bucks Open As 17-Point Favorites
-                            <a href="https:/ohio-state-football/2019/09/107286/ohio-state-opens-as-17-point-favorites-against-sparty" style="font-size:80%;">More Info</a></h3>
-<p>The Buckeyes opened as 17-point favorites over Michigan State after their thrashing of Nebraska. Ohio State has covered in all but one game this season.               </p>
-<h3>17) Alabi, Fuller, Okudah, Haubeil Recognized
-                            <a href="https:/ohio-state-football/2019/09/107291/joshua-alabi-jordan-fuller-jeffrey-okudah-and-blake-haubeil-are-named-players-of-the-game-against-nebraska" style="font-size:80%;">More Info</a></h3>
-<p>Joshua Alabi, Jordan Fuller, Jeff Okudah and Blake Haubeil were named Players of the Game by Ohio State after its 48-7 dismantling of Nebraska.               </p>
-<h3>18) The Hurry Up: 9/29
-                            <a href="https:/ohio-state-football-recruiting/2019/09/107218/the-hurry-up-checking-out-a-pair-in-state-up-and-comers-in-bryon-threats-and-chris-scott-jack-sawyer" style="font-size:80%;">More Info</a></h3>
-<p>When going to check out a pair of in-state players with Ohio State offers, a different duo of Ohioan preps players stood out in Bryon Threats and Chris Scott.              </p>
-<h3>19) Photos: Ohio State Crushes Nebraska
-                            <a href="https:/ohio-state-football/2019/09/107276/photos-from-ohio-states-48-7-win-against-nebraska" style="font-size:80%;">More Info</a></h3>
-<p>Check out the photo gallery from Ohio State's 48-7 win versus the Cornhuskers in Lincoln, Nebraska.              </p>
-<h3>20) Bucks Are 4th in AP Poll, 5th in Coaches
-                            <a href="https:/ohio-state-football/2019/09/107282/ohio-state-cracks-the-top-four-in-ap-poll-moves-up-to-no-5-in-coaches-poll" style="font-size:80%;">More Info</a></h3>
-<p>Ohio State is now fourth in the AP Poll after their 48-7 win over Nebraska, jumping over LSU. The Bucks are fifth in the Coaches Poll.               </p>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>1) Buckeyes Favored By 44
+                             <a href="https://www.elevenwarriors.com//ohio-state-football/2019/11/108434/ohio-state-opens-as-44-point-favorite-for-ninth-game-of-season-against-maryland" style="font-size:80%;">More Info</a></h3>
+<p>Ohio State opens as an enormous betting favorite for Saturday's home game against Maryland.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>2) Buckeyes Stay Put in Both Polls
+                             <a href="https://www.elevenwarriors.com//ohio-state-football/2019/11/108429/ohio-state-still-third-in-ap-top-25-fourth-in-coaches-poll-after-second-bye-week" style="font-size:80%;">More Info</a></h3>
+<p>Ohio State is still ranked third in the AP Top 25 and fourth in the Coaches Poll after its second and final bye week of the regular season.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>3) Pryor to Notre Dame
+                             <a href="https://www.elevenwarriors.com//ohio-state-football/2019/11/108431/former-ohio-state-safety-isaiah-pryor-transferring-to-notre-dame-per-report" style="font-size:80%;">More Info</a></h3>
+<p>Former Ohio State safety Isaiah Pryor is transferring to Notre Dame, according to a report by 247Sports' Tom Loy.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>4) Prep Tracker: Martinez Comes Up Big
+                             <a href="https://www.elevenwarriors.com//ohio-state-football-recruiting/2019/11/108411/2020-prep-tracker-cameron-martinez-jaxon-smith-njigba-lejond-cavazos" style="font-size:80%;">More Info</a></h3>
+<p>Cameron Martinez runs for 293 yards in one half, Jaxon Smith-Njigba puts on a show and Lejond Cavazos stands out on defense.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>5) Five Buckeyes Win at MSU Open
+                             <a href="https://www.elevenwarriors.com//ohio-state-wrestling/2019/11/108425/ohio-state-wins-five-weight-classes-at-michigan-state-open" style="font-size:80%;">More Info</a></h3>
+<p>Sammy Sasso pinned or teched everyone he wrestled and four teammates joined him in winning their weights at Ohio State's first tournament of the season.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>6) The Vacant Ohio College Basketball Throne
+                             <a href="https://www.elevenwarriors.com//ohio-state-basketball/2019/11/108409/the-ohio-college-basketball-throne-is-there-for-the-taking-if-the-buckeyes-want-it" style="font-size:80%;">More Info</a></h3>
+<p>The Ohio State men's basketball team doesn't have the kind of hegemony over the Buckeye state that the football team enjoys, but it's there for the taking.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>7) Seven Touchdowns in One Half
+                             <a href="https://www.elevenwarriors.com//ohio-state-football-recruiting/2019/11/108404/ohio-state-commit-cameron-martinez-rushes-for-293-yards-seven-touchdowns-in-one-half" style="font-size:80%;">More Info</a></h3>
+<p>Ohio State commit Cameron Martinez, who could still play on either side of the ball for the Buckeyes, ran for 293 yards and seven touchdowns in one half on Saturday.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>8) A Rare Level of Consistent Dominance
+                             <a href="https://www.elevenwarriors.com//ohio-state-football/2019/11/108396/ohio-state-has-achieved-a-rare-level-of-consistent-dominance-in-first-eight-games-of-2019-season" style="font-size:80%;">More Info</a></h3>
+<p>This year's Ohio State team is one of just nine teams in the last 90 years – including two other Ohio State teams – who have won eight straight games by 24 or more points.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>9) Time and Change: Block O
+                             <a href="https://www.elevenwarriors.com//the-ohio-state-university/2019/11/108389/time-and-change-block-o-ohio-states-largest-student-organization" style="font-size:80%;">More Info</a></h3>
+<p>For 81 years, Block O has modeled the tradition of spirit and pride surrounding Ohio State athletics.              </p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>10) Smith-Njigba Puts On A Show
+                             <a href="https://www.elevenwarriors.com//ohio-state-football-recruiting/2019/11/108387/ohio-state-wide-receiver-commit-jaxon-smith-njigba-has-325-yard-four-touchdown-game-including" style="font-size:80%;">More Info</a></h3>
+<p>Jaxon Smith-Njigba, one of four top-100 wide receiver commits in Ohio State's class of 2020, had 325 yards and four touchdowns in his team's regular-season finale on Friday.              </p>
+</div>
 
+</div>
 
+<div>
 <h2>Blue Jackets</h2>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>1) Postgame: John Tortorella <a href="https://www.nhl.com/bluejackets//bluejackets/video/postgame-john-tortorella/c-4506145" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>2) Postgame: Oliver Bjorkstrand  <a href="https://www.nhl.com/bluejackets//bluejackets/video/postgame-oliver-bjorkstrand/c-4506090" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>3) Postgame: Kole Sherwood <a href="https://www.nhl.com/bluejackets//bluejackets/video/postgame-kole-sherwood/c-4506091" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>4) CBJ recall Kole Sherwood from Monsters, assign Jakob Lilja <a href="https://www.nhl.com/bluejackets//news/cbj-recall-kole-sherwood-from-monsters-assign-jakob-lilja/c-310781812" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>5) Dubois finishes a terrific dish <a href="https://www.nhl.com/bluejackets//bluejackets/video/dubois-finishes-a-terrific-dish/c-70071203" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>6) Bjorkstrand's power-play goal <a href="https://www.nhl.com/bluejackets//bluejackets/video/bjorkstrands-power-play-goal/c-70073003" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>7) Milano buries rebound <a href="https://www.nhl.com/bluejackets//bluejackets/video/milano-buries-rebound/c-70072703" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>8) Teammating: Dubois and Savard <a href="https://www.nhl.com/bluejackets//bluejackets/video/teammating-dubois-and-savard/c-4487325" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>9) CBJ notebook: Blue Jackets, fans celebrate Hockey Halloween <a href="https://www.nhl.com/bluejackets//news/blue-jackets-notebook-halloween-elvis-merzlikins/c-310695972" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+<div margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';>
+<h3>10) ANALYSIS: Dubois using strength, puck protection to add to production <a href="https://www.nhl.com/bluejackets//news/blue-jackets-analysis-dubois-impressing/c-310619214" style="font-size:80%;">More Info</a></h3>
+<p></p>
+</div>
+
+</div>

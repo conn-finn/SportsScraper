@@ -9,18 +9,24 @@ testFile = File.new("testFile.txt", "w")
 agent = Mechanize.new #needed for the mechanize gem
 
 emailContent = ""
+style = "margin='20px';
+padding-botto='10px';
+border-bottom='solid #E1E1E1 2px';"
 
 #tell the user about the day and time getting the information
 emailContent.concat("<h2>Today is: " + time.month.to_s + "/" + time.day.to_s + "/" + time.year.to_s + "</h2>\n")
 emailContent.concat("<h2>Sports News today:</h2>")
 
-testFile.write("<h2>Today is: " + time.month.to_s + "/" + time.day.to_s + "/" + time.year.to_s + "</h2>\n")
+testFile.write("<h2>Today is: " + time.month.to_s +
+                   "/" + time.day.to_s + "/" + time.year.to_s + "</h2>\n")
 testFile.write("<h2>Sports News today:</h2>")
 
 scraperSites.each do |sport|
   sport.each do |website|
-    testFile.write "\n\n<h2>" + website.name + "</h2>\n"
-    emailContent.concat "\n\n<h2>" + website.name + "</h2>\n"
+    testFile.write "\n\n<div>\n<h2>" + website.name +
+                       "</h2>\n"
+    emailContent.concat "\n\n<div>\n<h2>" + website
+                                                              .name + "</h2>\n"
     htmlPage = agent.get website.url #mechanize getting the information
 
     storyInfo = Array.new
@@ -51,14 +57,20 @@ scraperSites.each do |sport|
         title = (headline.at "h4").text
       end
 
-      testFile.write "<h3>" + hCounter.to_s + ") " + title.lstrip +
+      testFile.write "<div " + style + ">\n<h3>" + hCounter.to_s + ") " + title
+                                                             .lstrip +
                               " <a href=\"" + linkToArticle + "\" style=\"font-size:80%;\">More Info</a></h3>\n<p>" +
-                              storyInfo[hCounter-1].lstrip + "</p>\n"
-      emailContent.concat "<h3>" + hCounter.to_s + ") " + title.lstrip +
+                              storyInfo[hCounter-1].lstrip +
+                         "</p>\n</div>\n"
+      emailContent.concat "<div " + style + ">\n<h3>" + hCounter.to_s + ") " + title
+                                                               .lstrip +
                               " <a href=\"" + linkToArticle + "\" style=\"font-size:80%;\">More Info</a></h3>\n<p>" +
-                              storyInfo[hCounter-1].lstrip + "</p>\n"
+                              storyInfo[hCounter-1].lstrip +
+                              "</p>\n</div>\n"
 
     end #end of headline
+    testFile.write "\n</div>"
+    emailContent.concat "\n</div>"
   end #end of website
 end #end of sport
 #end of all sites
