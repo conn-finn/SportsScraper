@@ -14,7 +14,7 @@ Web scraper for columbus sports information. Sends email to desired
 ### TODO:
 * add more sites
     * Bucknuts
-    * CBSSports/ collegefootball
+    * CBSSports/collegefootball
     * Twitter Section
         * Lantern sports
         * CBJartillery
@@ -23,4 +23,4 @@ Web scraper for columbus sports information. Sends email to desired
         * BarstoolOSU
 * Make styling look nicer
     * keeping in mind that it will be read within an email
-* Set up scheduler to run everyday/ every other day
+* Set up scheduler to run everyday/every other day
