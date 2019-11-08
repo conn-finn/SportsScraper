@@ -1,5 +1,5 @@
 # SportsScraper
-###description:
+### description:
 Web scraper for columbus sports information. Sends email to desired
  recipient(s) of most recent articles from a number of sites
   currently relating to:
@@ -7,11 +7,11 @@ Web scraper for columbus sports information. Sends email to desired
 * Blue Jackets Hockey
 * Generic OSU sports
 
-###Websites Currently featured:
+### Websites Currently featured:
 * Eleven Warriors
 * Blue Jackets on NHL.com
 
-###TODO:
+### TODO:
 * add more sites
     * Bucknuts
     * CBSSports/ collegefootball
