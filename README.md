@@ -1,5 +1,5 @@
 # SportsScraper
-### description:
+### Description:
 Web scraper for columbus sports information. Sends email to desired
  recipient(s) of most recent articles from a number of sites
   currently relating to:
@@ -24,3 +24,4 @@ Web scraper for columbus sports information. Sends email to desired
 * Make styling look nicer
     * keeping in mind that it will be read within an email
 * Set up scheduler to run everyday/every other day
+* Set up list of emails instead of inputting them into console
