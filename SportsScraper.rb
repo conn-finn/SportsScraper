@@ -9,17 +9,19 @@ testFile = File.new("testFile.txt", "w")
 agent = Mechanize.new #needed for the mechanize gem
 
 emailContent = ""
-style = "margin='20px';
-padding-botto='10px';
-border-bottom='solid #E1E1E1 2px';"
+style = "style='margin: 20px; padding-bottom: 10px; border-bottom:
+solid #E1E1E1 2px;'"
 
 #tell the user about the day and time getting the information
-emailContent.concat("<h2>Today is: " + time.month.to_s + "/" + time.day.to_s + "/" + time.year.to_s + "</h2>\n")
-emailContent.concat("<h2>Sports News today:</h2>")
+emailContent.concat("<h2 style='text-align: center;'>Today is: " + time.month.to_s + "/" +
+                        time.day.to_s + "/" + time.year.to_s + "</h2>\n")
+emailContent.concat("<h2 style='text-align: center;'>Here is Today's
+Sports News</h2>")
 
-testFile.write("<h2>Today is: " + time.month.to_s +
+testFile.write("<h2 style='text-align: center;'>Today is: " + time.month.to_s +
                    "/" + time.day.to_s + "/" + time.year.to_s + "</h2>\n")
-testFile.write("<h2>Sports News today:</h2>")
+testFile.write("<h2 style='text-align: center;'>Here is Today's
+Sports News</h2>")
 
 scraperSites.each do |sport|
   sport.each do |website|

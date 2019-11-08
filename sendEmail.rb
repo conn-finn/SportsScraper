@@ -7,7 +7,7 @@ From: SportScraper <sportscraperOSU@gmail.com>
 To: User <#{email}>
 MIME-Version: 1.0
 Content-type: text/html
-Subject: Today's OSU News
+Subject: Today's Sports News
     
 #{content}
 MESSAGE_END
